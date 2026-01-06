@@ -16,6 +16,13 @@ This is a fun and simple web-based dice game built using **HTML**, **CSS**, and 
   - 🎉 Player 1 Wins
   - 🎉 Player 2 Wins
   - 🤝 It's a Draw
+## 📸 Game Preview
+
+Check out the game interface below:
+
+<p align="center">
+  <img src="images/Dice Game Sample.png" width="600" title="Dice Game Demo" alt="Dice Game Interface">
+</p> 
 
 ## 🚀 How to Use
 
